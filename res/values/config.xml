@@ -60,7 +60,7 @@
     <bool name="config_no_sim_card_uses_neighbor_mcc">false</bool>
 
     <!-- Configuration for including DHCP client hostname option -->
-    <bool name="config_dhcp_client_hostname">false</bool>
+    <bool name="config_dhcp_client_hostname">true</bool>
 
     <!-- Customized neighbor unreachable probe parameters. -->
     <integer name="config_nud_steadystate_solicit_num">10</integer>
